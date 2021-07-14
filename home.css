@@ -1,0 +1,11 @@
+h3{
+ background-color: rgb(139, 0, 128);
+ grid-auto-flow: dense;
+ align-content: flex-start;
+ place-items: center;
+}
+.header{
+    padding-left: 56px; 
+    padding-right: 56px;   
+}
+
